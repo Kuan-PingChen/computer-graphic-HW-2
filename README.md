@@ -170,6 +170,3 @@ Sutherland–Hodgman 四情況規則與 isInside 的繞序注意事項
 
 撰寫此 README 的章節結構與文字潤飾
 
-所有關鍵程式碼均由本人撰寫與整合，LLM 僅作為概念說明與文件撰寫輔助。
-
-"# computer-graphic-HW-2" 
